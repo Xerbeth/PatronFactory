@@ -1,0 +1,6 @@
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\bin\Debug\PatronFactory.exe.config
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\bin\Debug\PatronFactory.exe
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\bin\Debug\PatronFactory.pdb
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\obj\Debug\PatronFactory.csprojAssemblyReference.cache
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\obj\Debug\PatronFactory.exe
+C:\Users\faibe\source\repos\PatronFactory\PatronFactory\obj\Debug\PatronFactory.pdb
